@@ -13,7 +13,7 @@ Navegue pelos filmes como você é acostumado a fazer em suas plataformas prefer
 <br>
 
 <h2 align="center">
-<a href="https://cinemat.vercel.app/" target="_blank">Testar / preview</a> 
+<a href="https://cinemat-zeta.vercel.app/" target="_blank">Testar / preview</a> 
 </h1>
 
  <img src ="src/images/cinemat_readme.png" alt = "mockup"/> <br><br>
